@@ -2,7 +2,7 @@
 
 This project focuses on predicting housing prices using different regression techniques. The dataset used is sourced from the UCI Machine Learning Repository. After experimenting with multiple regression models, Random Forest Regressor was selected as the best performing model for predicting housing prices.
 
-****Project Overview**
+**Project Overview**
 
 The main goal of this project is to build a regression model that can accurately predict the prices of houses based on various features such as:
 
